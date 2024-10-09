@@ -1,3 +1,3 @@
 def(String url, String branch){
-   git branch: ${"branch"}, url: ${"url"}'
+   git url: ${"url"}, branch: ${"branch"}'
 }
